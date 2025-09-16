@@ -1,7 +1,7 @@
 # Privacy Policy for MandarinDash
 
 **Effective Date:** September 16, 2025  
-**Developer:** Chaz Stewart / The Dragon App (“we,” “us,” or “our”)  
+**Developer:** The Dragon App (“we,” “us,” or “our”)  
 
 We respect your privacy. This Policy explains what data MandarinDash collects, how we use it, and your choices.
 
@@ -41,6 +41,6 @@ Your data may be processed by Apple’s infrastructure according to your region 
 We may update this Policy as features evolve. We will update the “Effective Date” above and, where appropriate, notify you in-app.
 
 ## 9) Contact Us
-Questions or requests: **support@thedragonapp.com**
+Questions or requests: **imboredapp@outlook.com**
 
 _Last updated: September 16, 2025_
